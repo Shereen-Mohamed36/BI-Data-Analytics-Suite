@@ -24,5 +24,3 @@ The project follows a structured data science approach:
 ## 📈 Key Results
 By comparing the results of different models, we identified how data distribution and preprocessing choices (like scaling) directly impact the final business metrics and decision-making process.
 
----
-**Developed by Shereen Mohamed** 🎓
